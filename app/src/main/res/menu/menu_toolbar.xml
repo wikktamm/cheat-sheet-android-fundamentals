@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/firstItem" app:showAsAction="always" android:icon="@drawable/ic_1" android:title="First item" />
+    <item android:id="@+id/secondItem" app:showAsAction="always"  android:icon="@drawable/ic_baseline_filter_2_24" android:title="Second item" />
+    <item android:id="@+id/thirdItem" app:showAsAction="never"  android:title="Third item" />
+    <item android:id="@+id/fourthItem" app:showAsAction="never"   android:title="Fourth item" />
+</menu>
